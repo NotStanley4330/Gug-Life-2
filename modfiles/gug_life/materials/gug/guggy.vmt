@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+    "$basetexture" "gug/guggy.vtf"
+
+    "$model" "1"
+}
