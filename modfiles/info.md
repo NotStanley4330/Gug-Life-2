@@ -1,0 +1,1 @@
+The sub directory beneath this contains finished files in the necessary folder structure to overwrite existing Half-Life 2 files. Simply drag the gug_life folder into the hl2/custom folder and it should work.
