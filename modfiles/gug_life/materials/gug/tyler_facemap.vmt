@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "gug/tyler_facemap"
+	"$bumpmap" "gug/tyler_facemap_normal"
+	"$halflambert" 1
+
+}

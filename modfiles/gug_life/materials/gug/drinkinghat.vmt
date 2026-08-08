@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "gug/drinkinghat"
+	"$surfaceprop" "Metal"
+	"$model" "1"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/example/large_gug_can"
+	"$translucent" 1
+}
