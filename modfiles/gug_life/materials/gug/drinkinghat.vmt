@@ -18,5 +18,5 @@ VertexLitGeneric
 
 	$rimlight 1
 	$rimlightexponent 12
-	$rimlightboost 2.03
+	$rimlightboost 1
 }
